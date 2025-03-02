@@ -73,6 +73,159 @@
         ]
     },
     {
+    "tag": "learn_programming",
+    "patterns": [
+        "How can I learn Python?",
+        "Best programming languages for beginners",
+        "Which programming language should I learn first?",
+        "How to start learning coding?",
+        "Easiest way to learn programming languages"
+    ],
+    "responses": [
+        "Python is a great choice for beginners due to its simplicity. Would you like resources to get started?",
+        "Start with a beginner-friendly language like Python or JavaScript. I can share tutorials if you'd like!",
+        "The best language depends on your goals. For web development, try JavaScript. For data science, Python is excellent."
+    ]
+},
+    {
+    "tag": "language_comparison",
+    "patterns": [
+        "Java vs Python, which is better?",
+        "Is C++ harder than Java?",
+        "Best programming language for web development",
+        "Which language is better for data science, R or Python?",
+        "Should I learn Go or Rust?"
+    ],
+    "responses": [
+        "Java is versatile, but Python is more beginner-friendly. What are your goals?",
+        "For web development, JavaScript is essential. Backend options include Python, Node.js, or PHP.",
+        "For data science, Python is widely used, but R is also great for statistical analysis."
+    ]
+},{
+    "tag": "study_tips",
+    "patterns": [
+        "Best ways to study efficiently",
+        "How to stay focused while studying",
+        "Study tips for coding",
+        "How to improve memory while studying",
+        "Techniques for learning programming faster"
+    ],
+    "responses": [
+        "Break your study time into chunks using the Pomodoro technique. Stay consistent!",
+        "Practice coding daily and try solving real-world problems to improve your skills.",
+        "Use active recall and spaced repetition for better memory retention."
+    ]
+},
+    {
+    "tag": "dsa",
+    "patterns": [
+        "Best way to learn data structures",
+        "How to master algorithms",
+        "What are the most important data structures?",
+        "Where can I practice DSA problems?",
+        "DSA study plan for interviews"
+    ],
+    "responses": [
+        "Start with the basics like arrays, linked lists, and stacks, then move to algorithms like sorting and searching.",
+        "Platforms like LeetCode, HackerRank, and Codeforces are great for practicing DSA problems.",
+        "Create a study plan that includes daily problem-solving and focuses on frequently asked interview topics."
+    ]
+},
+    {
+    "tag": "programming_career",
+    "patterns": [
+        "How to get a job as a programmer",
+        "Best programming languages for getting a job",
+        "What is the salary of a software developer?",
+        "How to build a portfolio for coding",
+        "How to prepare for coding interviews"
+    ],
+    "responses": [
+        "To get a job in programming, build projects, contribute to open source, and practice coding problems.",
+        "Popular languages for jobs include Python, Java, JavaScript, and SQL.",
+        "Prepare for coding interviews by mastering DSA, system design, and behavioral questions."
+    ]
+},
+    {
+    "tag": "frameworks_libraries",
+    "patterns": [
+        "What is the best front-end framework?",
+        "Should I learn React or Angular?",
+        "What is Flask used for?",
+        "Best libraries for data analysis in Python",
+        "What is TensorFlow used for?"
+    ],
+    "responses": [
+        "React is currently one of the most popular front-end frameworks. Would you like resources to learn it?",
+        "Flask is a lightweight framework for building web applications in Python.",
+        "For data analysis, Python libraries like Pandas, NumPy, and Matplotlib are essential."
+    ]
+},
+    {
+    "tag": "certifications",
+    "patterns": [
+        "Best certifications for Python developers",
+        "Are coding bootcamps worth it?",
+        "Where can I find free coding courses?",
+        "What are the best books to learn programming?",
+        "Top certifications for web developers"
+    ],
+    "responses": [
+        "Certifications like AWS, Google Cloud, and Python Institute are great for developers.",
+        "Free coding courses are available on platforms like freeCodeCamp, Coursera, and Codecademy.",
+        "Books like 'Automate the Boring Stuff with Python' and 'Eloquent JavaScript' are highly recommended."
+    ]
+},
+    {
+    "tag": "debugging",
+    "patterns": [
+        "How to debug Python code",
+        "Tips for fixing JavaScript errors",
+        "Common mistakes in coding",
+        "How to solve runtime errors",
+        "Why is my code not working?"
+    ],
+    "responses": [
+        "Debugging tip: Use print statements or debugging tools like the browser console or IDE debugger.",
+        "Check for syntax errors or typos, and ensure you're using the correct logic for the problem.",
+        "Break your problem into smaller parts and test each part to isolate the issue."
+    ]
+},
+    {
+    "tag": "popular_queries",
+    "patterns": [
+        "Best IDE for Python",
+        "What is the future of programming?",
+        "How much do developers earn?",
+        "Top programming languages in 2025",
+        "Can AI replace programmers?"
+    ],
+    "responses": [
+        "Popular IDEs for Python include PyCharm, VS Code, and Jupyter Notebook.",
+        "Programming is evolving rapidly with AI and machine learning, so staying updated is key.",
+        "AI can assist programmers but won't completely replace them anytime soon."
+    ]
+},
+    {
+    "tag": "project_ideas",
+    "patterns": [
+        "What are some beginner coding projects?",
+        "Ideas for final-year projects in CS",
+        "Simple Python project ideas",
+        "Best projects for a portfolio",
+        "Web development project ideas"
+    ],
+    "responses": [
+        "Beginner projects: To-do list app, calculator, or a simple game like Tic Tac Toe.",
+        "For web development, you can create a portfolio website, weather app, or blog platform.",
+        "For final-year projects, AI-based applications or data visualization tools are trending."
+    ]
+},
+    
+    
+
+
+    {
         "tag": "age",
         "patterns": [
             "How old are you",
